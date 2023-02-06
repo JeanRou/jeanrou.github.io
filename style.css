@@ -3,7 +3,7 @@ body {
     margin-left: 0;
     margin-right: 0;
 }
-#circleImg {
+.circleImg {
     border-radius: 50%;
     height: 250px;
     width: 250px;
